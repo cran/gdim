@@ -1,0 +1,16 @@
+1fb801f72f37074ea03c1ccf295ebbc5 *DESCRIPTION
+92e76f2c33556406699dddd858a4533a *NAMESPACE
+99a087b36dd06516e9fca6366324909e *NEWS.md
+e89018ed8a086c39fcc35d780e653cea *R/eigcv.R
+c6c5738056c5fa1824a4749296d73261 *R/gdim-package.R
+8ba7ad3207cc56af4e9d998a02237c64 *R/utils.R
+b42aae5e489c57ad9c9023fc1b852162 *README.md
+2a6556e1002d25eeda35bc6a729c5b9c *man/eigcv.Rd
+648a1f3f86dbad6aa9ede6cd50bc8f7d *man/figures/README-unnamed-chunk-3-1.png
+53f13b2531d0a75ca95c9c9f70241a65 *man/gdim-package.Rd
+07097c63c93f20bbd4d0a537e6684dc4 *man/pipe.Rd
+afdc99f0bdec263c243d22d8d8487b6f *man/plot.eigcv.Rd
+501a6e18681006910c912baee8df020f *man/print.eigcv.Rd
+f3a70ef6858c43ca5049c9919b27a57d *tests/testthat.R
+6aed81e5a4cb448e93816208af713b8b *tests/testthat/test-eigcv.R
+c6cf1de38e543b45a916c71dd7e52f31 *tests/testthat/test-split_graph.R
